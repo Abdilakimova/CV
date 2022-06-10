@@ -1,1 +1,1 @@
-https://Abdilakimova.github.io/CV/cv
+https://Abdilakimova.github.io/cv/cv
