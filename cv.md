@@ -1,4 +1,4 @@
-![Abdilakimova](C:\Users\User\Desktop\CV\My_foto.jpg)
+![Abdilakimova](My_foto.jpg)
 # Akbermet Abdikaarovna
 ****
 ## Contacts
