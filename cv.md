@@ -1,5 +1,5 @@
-![Abdilakimova](https://i.ibb.co/H7f8tHw/My-foto.jpg)
-# Akbermet Abdikaarovna
+![Foto](https://i.ibb.co/H7f8tHw/My-foto.jpg)
+# Akbermet Abdilakimova
 ****
 ## Contacts
 ****
