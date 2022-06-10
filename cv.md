@@ -1,4 +1,4 @@
-![Abdilakimova](img/My_foto.jpg)
+![Abdilakimova](C:\Users\User\Desktop\CV\My_foto.jpg)
 # Akbermet Abdikaarovna
 ****
 ## Contacts
@@ -26,8 +26,9 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 ****
 ## Code Example
 ****
-```<li>
-<a href="index.html" target="_blank">View project</a>
+```
+   <li>
+ <a href="index.html" target="_blank">View project</a>
    </li>
 ```
 ****
