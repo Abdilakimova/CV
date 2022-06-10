@@ -1,4 +1,4 @@
-![Abdilakimova](CV/My_foto.jpg)
+![Abdilakimova](https://github.com/Abdilakimova/cv/blob/gh-pages/My_foto.jpg)
 # Akbermet Abdikaarovna
 ****
 ## Contacts
