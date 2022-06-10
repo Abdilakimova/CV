@@ -7,13 +7,13 @@
 * Phone: +996 770 586-029
 * Email: akbermet.abdilakimova.ch@gmail.com
 * GitHub: [abdilakimova](https://github.com/Abdilakimova)
-**
+****
 ## About Me
 ****
 I am responsible, goal-oriented, interested in web programming and everything related to it. I am looking to gain more experience and knowledge in the field of programming. I currently work as an accountant in a logistics company. I like writing codes programming. I have long dreamed of being a programmer. Now I am seriously ready to change my profession to a programmer.
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas. 
-**
+****
 ## Skills
 ****
 * HTML
